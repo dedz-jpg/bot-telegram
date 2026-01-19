@@ -55,5 +55,69 @@ Bot para Telegram desenvolvido em Python utilizando a biblioteca **pyTelegramBot
 ![Bot funcionando](https://github.com/dedz-jpg/bot-telegram/blob/main/chatbot%20telegram.png)
 ![Bot funcionando](https://github.com/dedz-jpg/bot-telegram/blob/main/print%202.png)
 
+# 🤖 Telegram Bot – Order System (ENG version)
 
+Telegram bot developed in Python using the **pyTelegramBotAPI** library, with secure credential management via **dotenv**.
+
+## 🚀 Features
+
+- Interactive menu via commands
+- Order simulation:
+
+- 🍕 Pizza
+
+- 🍔 Hamburger
+
+- 🍣 Sushi
+
+- Complaints area
+
+- Rating area
+
+- Error handling and automatic reconnection
+
+## 🛠 Technologies
+
+- Python
+
+- pyTelegramBotAPI
+
+- python-dotenv
+
+- VS Code
+
+## ⚙ How to run
+
+1. Clone the repository
+2. Install the dependencies: pip install -r requirements.txt
+3. Create a .env file
+TOKEN=your_key_here
+4. Run the bot
+python bot.py
+
+📌 Commands
+
+/start – Initial menu
+
+/option1 – Place order
+
+/option2 – Complaint
+
+/option3 – Evaluation
+
+/pizza
+
+/hamburger
+
+/sushi
+
+📚 Learnings
+
+- Consuming the Telegram API
+- Practices with environment variables
+- Structuring a Python project
+- Handling messages using handlers
+
+![Working Bot](https://github.com/dedz-jpg/bot-telegram/blob/main/chatbot%20telegram.png)
+![Working Bot](https://github.com/dedz-jpg/bot-telegram/blob/main/print%202.png)
 
