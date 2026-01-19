@@ -52,4 +52,8 @@ Bot para Telegram desenvolvido em Python utilizando a biblioteca **pyTelegramBot
 - Estruturação de projeto Python
 - Tratamento de mensagens por handlers 
 
+![Bot funcionando](https://github.com/dedz-jpg/bot-telegram/blob/main/chatbot%20telegram.png)
+![Bot funcionando](https://github.com/dedz-jpg/bot-telegram/blob/main/print%202.png)
+
+
 
